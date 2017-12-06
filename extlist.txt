@@ -1,0 +1,7 @@
+3Dj, https://github.com/supercollider-quarks/3Dj, 1.5, 11/02/2017, Very good package!
+4Dj, https://github.com/supercollider-quarks/4Dj, 1.6, 11/03/2017, Very good package?
+5Dj, https://github.com/supercollider-quarks/5Dj, 1.7, 11/04/2017, Very bad package!
+6Dj, https://github.com/supercollider-quarks/6Dj, 1.8, 11/05/2017, Very bad package?
+7Dj, https://github.com/supercollider-quarks/7Dj, 1.9, 11/06/2017, Very package!
+8Dj, https://github.com/supercollider-quarks/8Dj, 2.5, 11/07/2017, Very package?
+
