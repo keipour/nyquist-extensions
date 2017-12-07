@@ -4,4 +4,39 @@ bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master
 also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
 terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
 just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/terrible-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/test-player.sal, 2.5, 11/07/2017, Just a test package
 
