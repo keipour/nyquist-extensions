@@ -1,7 +1,7 @@
-3Dj, https://github.com/supercollider-quarks/3Dj, 1.5, 11/02/2017, Very good package!
-4Dj, https://github.com/supercollider-quarks/4Dj, 1.6, 11/03/2017, Very good package?
-5Dj, https://github.com/supercollider-quarks/5Dj, 1.7, 11/04/2017, Very bad package!
-6Dj, https://github.com/supercollider-quarks/6Dj, 1.8, 11/05/2017, Very bad package?
-7Dj, https://github.com/supercollider-quarks/7Dj, 1.9, 11/06/2017, Very package!
-8Dj, https://github.com/supercollider-quarks/8Dj, 2.5, 11/07/2017, Very package?
+c4-player, https://raw.githubusercontent.com/keipour/cool-nyquist-extension/master/c4-player.sal, 1.0, 11/02/2017, Very cool package!
+not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/something.sal, 1.6, 11/03/2017, Is this also a cool package?
+bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/c4-player.sal, 1.7, 11/04/2017, Very bad package!
+also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/c4-player.sal, 1.8, 11/05/2017, Another bad package!
+terribly-bad, https://raw.githubusercontent.com/keipour/officially-terrible-extension/master/c4-player.sal, 1.9, 11/06/2017, Officially terrible package!
+just-a-test, https://raw.githubusercontent.com/keipour/just-a-test-extension/master/c4-player.sal, 2.5, 11/07/2017, Just a test package
 
