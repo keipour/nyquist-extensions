@@ -1,4 +1,4 @@
-c4-player, https://raw.githubusercontent.com/keipour/cool-nyquist-extension/master/c4-player.sal, 1.0, 11/02/2017, Very cool package!
+cool-nyquist-extension, https://raw.githubusercontent.com/keipour/cool-nyquist-extension/master/c4-player.sal, 1.0, 11/02/2017, Very cool package!
 not-cool, https://raw.githubusercontent.com/keipour/not-cool-nyquist-extension/master/not-a-player.sal, 1.6, 11/03/2017, Is this also a cool package?
 bad-bad-bad, https://raw.githubusercontent.com/keipour/very-bad-extension/master/bad-player.sal, 1.7, 11/04/2017, Very bad package!
 also-bad, https://raw.githubusercontent.com/keipour/another-bad-extension/master/another-bad-player.sal, 1.8, 11/05/2017, Another bad package!
